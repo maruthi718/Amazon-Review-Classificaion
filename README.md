@@ -20,3 +20,7 @@ The dataset used for this project is a collection of Amazon reviews. It contains
 You can find a sample of the dataset in the file `amazon_reviews.csv`. Please ensure you have the complete dataset before running the code.
 
 
+
+
+https://github.com/maruthi718/Amazon-Review-Classificaion/assets/113303489/75c8344e-5502-4e3f-a10a-1d9bc6af9443
+
